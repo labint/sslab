@@ -1,0 +1,4 @@
+lex main.l
+cc lex.yy.c -ll
+./a.out
+1+6*(9-2+4)

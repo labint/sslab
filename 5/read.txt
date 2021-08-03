@@ -1,0 +1,4 @@
+vi main.c
+vi input.txt
+cc main.c
+vi output.txts
